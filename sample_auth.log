@@ -1,0 +1,11 @@
+
+Oct 19 08:01:12 server sshd[1201]: Failed password for invalid user admin from 192.168.56.101 port 51101 ssh2
+Oct 19 08:01:18 server sshd[1202]: Failed password for root from 192.168.56.101 port 51102 ssh2
+Oct 19 08:01:25 server sshd[1203]: Failed password for ubuntu from 192.168.56.101 port 51103 ssh2
+Oct 19 08:01:30 server sshd[1204]: Failed password for test from 192.168.56.101 port 51104 ssh2
+Oct 19 08:02:04 server sshd[1205]: Failed password for invalid user guest from 192.168.56.102 port 51105 ssh2
+Oct 19 08:02:40 server sshd[1206]: Accepted publickey for phidmah from 192.168.56.10 port 51106 ssh2
+Oct 19 08:03:10 server sshd[1207]: Failed password for root from 192.168.56.103 port 51107 ssh2
+Oct 19 08:03:25 server sshd[1208]: Failed password for admin from 192.168.56.103 port 51108 ssh2
+Oct 19 08:04:00 server sshd[1209]: Accepted password for analyst from 192.168.56.20 port 51109 ssh2
+Oct 19 08:05:00 server sshd[1210]: Failed password for invalid user oracle from 192.168.56.102 port 51110 ssh2
